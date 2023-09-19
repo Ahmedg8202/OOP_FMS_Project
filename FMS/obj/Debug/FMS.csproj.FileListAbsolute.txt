@@ -1,0 +1,14 @@
+C:\Users\ahmed\source\repos\FMS\FMS\bin\Debug\FMS.exe.config
+C:\Users\ahmed\source\repos\FMS\FMS\bin\Debug\FMS.exe
+C:\Users\ahmed\source\repos\FMS\FMS\bin\Debug\FMS.pdb
+C:\Users\ahmed\source\repos\FMS\FMS\obj\Debug\FMS.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\FMS\FMS\obj\Debug\FMS.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\FMS\FMS\obj\Debug\FMS.exe
+C:\Users\ahmed\source\repos\FMS\FMS\obj\Debug\FMS.pdb
+C:\Users\ahmed\Downloads\New folder\FMS\bin\Debug\FMS.exe.config
+C:\Users\ahmed\Downloads\New folder\FMS\bin\Debug\FMS.exe
+C:\Users\ahmed\Downloads\New folder\FMS\bin\Debug\FMS.pdb
+C:\Users\ahmed\Downloads\New folder\FMS\obj\Debug\FMS.csproj.AssemblyReference.cache
+C:\Users\ahmed\Downloads\New folder\FMS\obj\Debug\FMS.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Downloads\New folder\FMS\obj\Debug\FMS.exe
+C:\Users\ahmed\Downloads\New folder\FMS\obj\Debug\FMS.pdb
